@@ -1,0 +1,45 @@
+﻿body {
+    background-color:powderblue
+
+    
+}
+.class1 {
+    background-color: red;
+    color: white;
+    text-align:center
+}
+#id {
+        background-color:cyan;
+        color:black;
+        text-align:end
+}
+.div {
+    background-color:green;
+    text-align:center;
+}
+.class2 {
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    display: none;
+}
+.class3 {
+    width: 80px;
+    height: 80px;
+    background-color: green;
+    display: none;
+}
+.class4 {
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+    display:none;
+}
+.class5 {
+    height: 100px;
+    width: 300px;
+    color:white;
+    border: 2px solid black;
+    background-color:darkblue;
+}
+ 
